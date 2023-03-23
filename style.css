@@ -1,0 +1,182 @@
+@font-face {
+    font-family: Nino;
+    src: url('bpg_nino_mtavruli_normal.ttf')
+}
+
+nav {
+    position: absolute;
+    width: 1167px;
+    height: 96px;
+    left: 103px;
+    top: 57px;
+    border: 2px solid #0F54EE;
+}
+
+body {
+    font-family: Nino;
+    background: #E5E5E5;
+
+}
+
+.logo {
+
+    margin-left=103;
+
+}
+
+.mtavari {
+    position: absolute;
+    width: 83px;
+    height: 20px;
+    left: 650px;
+    top: 40px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #F90D0D;
+
+
+}
+
+.siaxleebi {
+
+position: absolute;
+    width: 102px;
+    height: 20px;
+    left: 850px;
+    top: 40px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #0F54EE;
+
+}
+
+.kontaqti {
+    position: absolute;
+    width: 92px;
+    height: 20px;
+    left: 1050px;
+    top: 40px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #0F54EE;
+}
+
+
+
+.car {
+    position: absolute;
+    width: 1167px;
+    height: 724px;
+    left: 103px;
+    top: 256px;
+
+}
+
+p {
+    position: absolute;
+    width: 793px;
+    height: 22px;
+    left: 103px;
+    top: 1008px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    color: #0F54EE;
+}
+
+.car1 {
+    position: absolute;
+    width: 237px;
+    height: 149px;
+    left: 146px;
+    top: 1271px
+}
+
+.car2 {
+    position: absolute;
+    width: 237px;
+    height: 149px;
+    left: 752px;
+    top: 1271px;
+
+}
+
+h1{
+    position: absolute;
+    width: 230px;
+    height: 147px;
+    left: 420px;
+    top: 1271px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+h2 {
+
+    position: absolute;
+    width: 230px;
+    height: 147px;
+    left: 1026px;
+    top: 1271px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.B1 {
+    position: absolute;
+    width: 561px;
+    height: 264px;
+    left: 103px;
+    top: 1214px;
+    background: #D9D9D9;
+}
+
+.B2 {
+    position: absolute;
+    width: 561px;
+    height: 264px;
+    left: 709px;
+    top: 1214px;
+    background: #D9D9D9;
+
+}
+
+.background {
+    position: absolute;
+    width: 1440px;
+    height: 656px;
+    left: 0px;
+    top: 256px;
+    background: #D9D9D9;
+}
+
+.ruka {
+    position: absolute;
+    width: 811px;
+    height: 407px;
+    left: 542px;
+    top: 372px;
+}
+
+.sakontaqtoinfo {
+    position: absolute;
+    width: 296px;
+    height: 164px;
+    left: 103px;
+    top: 372px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+}
